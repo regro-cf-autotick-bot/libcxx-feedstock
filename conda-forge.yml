@@ -3,6 +3,8 @@ bot:
   - 21.x
   - 20.x
   - 19.x
+build_platform:
+  win_arm64: win_64
 conda_build:
   pkg_format: '2'
 conda_forge_output_validation: true
