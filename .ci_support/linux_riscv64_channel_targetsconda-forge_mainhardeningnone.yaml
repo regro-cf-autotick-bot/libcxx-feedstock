@@ -19,7 +19,7 @@ docker_image:
 hardening:
 - none
 target_platform:
-- linux-64
+- linux-riscv64
 zip_keys:
 - - c_compiler_version
   - cxx_compiler_version
